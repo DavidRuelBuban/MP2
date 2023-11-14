@@ -4,9 +4,9 @@ import Header from './components/Header'
 function App() { 
   return (
     <>
-      <Header text={"Hello World!"}/>
+      <Header text={"Pre-School e-Learing"}/>
       <div className="container">
-        <h1 className='font-bold text-5xl text-blue-600/75'>My App</h1>
+        <h1 className='font-bold text-5xl text-blue-600/75'>Your child's guide to fun learning!</h1>
       </div>
 
     </>
